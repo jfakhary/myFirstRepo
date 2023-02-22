@@ -11,7 +11,7 @@ public class GitPracticeTwo {
 		total += prices[index];	
 		}
 		System.out.println("Total is " + total);
-		
+		System.out.println("this is for pull practice")
 				
 	}
 
