@@ -12,7 +12,11 @@ public class GitPracticeTwo {
 		}
 		System.out.println("Total is " + total);
 		System.out.println("this is for pull practice");
+<<<<<<< HEAD
 		System.out.println("tek school of america");
+=======
+		System.out.println("This is practice for pull");
+>>>>>>> 963f8e819cba944b67cc3f7c90058f25d3b7d430
 				
 	}
 	
